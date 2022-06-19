@@ -1,10 +1,12 @@
 # Healint Expense Tracker
 
-URL: https://healint-expense-tracker.web.app/
-
-[Demo](https://healint-expense-tracker.web.app/)
+URL: https://healint-expense-tracker.web.app/ . [Demo](https://healint-expense-tracker.web.app/)
 
 Objective: Track company office rentral, food and utility costs monthly.
+
+### Components
+- **Table**, sortable by amount or type. <br/>
+- **LineChart**
 
 ### Frontend Architecture
 ![Frontend](https://i.ibb.co/S7Y9Q0B/healint-architecture.png)
